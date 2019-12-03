@@ -1,0 +1,24 @@
+{
+  "name": "aup_cafeteria",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "homepage":"https://github.io/mateo-11/Cafeteria",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mateo-11Cafeteria"
+  },
+  "author": "Mateo Naz Jr.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mateo-11/Cafeteria/issues"
+  },
+
+  "dependencies": {
+    "gh-pages": "^2.1.1"
+  }
+}
